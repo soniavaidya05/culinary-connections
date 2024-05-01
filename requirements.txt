@@ -1,0 +1,3 @@
+python-ta>=2.6.2
+folium
+geopy
